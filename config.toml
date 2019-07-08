@@ -62,9 +62,9 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
+    bgImage = "images/slider/GNDEC.jpg"
+    #icon = "tf-ion-play"
+    heading = "Welcome to GNDEC"
     content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     btn = true
     btnText="Explore Us"
