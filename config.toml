@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "GNDEC"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -12,6 +12,32 @@ summaryLength = 10
 
 # Menu
 [menu]
+
+
+ [[menu.main]]
+    name = "Students"
+    URL = "students"
+    weight = 1
+
+    [[menu.main]]
+    name = "Faculty"
+    URL = "#"
+    weight = 2
+
+    [[menu.main]]
+    name = "Parents"
+    URL = "#"
+    weight = 3
+
+    [[menu.main]]
+    name = "Visitor"
+    URL = "#"
+    weight = 4
+
+
+
+#second navigation bar
+
     [[menu.nav]]
     name = "About Us"
     URL = "about"
