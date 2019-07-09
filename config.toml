@@ -64,7 +64,7 @@ summaryLength = 10
     weight = 6
 
     [[menu.nav]]
-    name = "Blog"
+    name = "Recent Events"
     URL = "blog"
     weight = 7
 
