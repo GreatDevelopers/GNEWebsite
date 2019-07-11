@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+publishDir = "docs"
 DefaultContentLanguage = "en"
 title = "GNDEC"
 theme = "meghna-hugo"
