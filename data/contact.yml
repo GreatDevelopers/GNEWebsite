@@ -2,20 +2,20 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+content : The college campus is located on Ludhiana - Malerkotla state highway known as Gill Road and is 7 Kilometers from the Railway Station, 6 Kilometers from Main Bus Stand and 15 Kilometers from the Airport. Ludhiana is well connected by roads and is located at 300 km from New Delhi, 90 km from Chandigarh, 150 Kilometers from Amritsar. By train Ludhiana is connected to New Delhi and daily three Shatabdi's takes around 4 hours for this journey. Apart from Shatabdib's many superfast trains also connect Ludhiana with other parts of India. 
 enable_maps : true
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+mapLatitude : 30.84815
+mapLongitude: 75.854
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : " Guru Nanak Dev Engineering College Gill Park, Gill Road, Ludhiana 141006, Punjab(India)."
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: 0161-2502700, 0161-5064501"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Fax: 0161-2502240"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: principal@gndec.ac.in"
     
