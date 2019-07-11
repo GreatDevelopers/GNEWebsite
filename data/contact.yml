@@ -2,7 +2,7 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+content : The college campus is located on Ludhiana - Malerkotla state highway known as Gill Road and is 7 Kilometers from the Railway Station, 6 Kilometers from Main Bus Stand and 15 Kilometers from the Airport. Ludhiana is well connected by roads and is located at 300 km from New Delhi, 90 km from Chandigarh, 150 Kilometers from Amritsar. By train Ludhiana is connected to New Delhi and daily three Shatabdi's takes around 4 hours for this journey. Apart from Shatabdib's many superfast trains also connect Ludhiana with other parts of India. 
 enable_maps : true
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
