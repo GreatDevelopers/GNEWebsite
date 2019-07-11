@@ -8,14 +8,14 @@ mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : " Guru Nanak Dev Engineering College Gill Park, Gill Road, Ludhiana 141006, Punjab(India)."
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: 0161-2502700, 0161-5064501"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Fax: 0161-2502240"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: principal@gndec.ac.in"
     
