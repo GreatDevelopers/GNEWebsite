@@ -1,4 +1,4 @@
-{{ if .Site.Data.testimonial.enable }}
+{{ if .Site.Data.picture.enable }}
 {{"<!-- Start Testimonial -->" | safeHTML}}
 <section id="testimonial" class="testimonial overly section bg-2" style='background-image: url("{{ .Site.Data.testimonial.bgImage | absURL }}")'>
     <div class="container">
@@ -6,23 +6,19 @@
             <div class="col-xl-12">
                 {{"<!-- testimonial wrapper -->" | safeHTML}}
                 <div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-                    {{ range .Site.Data.testimonial.testimonialItem }}
+                    {{ range .Site.Data.picture.pictureItem }}
                     {{"<!-- testimonial single -->" | safeHTML}}
                     <div class="item text-center">
 
                         {{"<!-- client photo -->" | safeHTML}}
-                        <div class="client-thumb">
-                            <img src="{{ .image | absURL }}" class="img-fluid" alt="Meghna">
+                        <div class="w3-round">
+                            <img src="{{ .image | absURL }}" class="img-fluid"  width="500" height="1000" alt="Picture">
                         </div>
 
                         {{"<!-- client info -->" | safeHTML}}
                         <div class="client-info">
                             <div class="client-meta">
-                                <h3>{{ .name }}</h3>
-                                <span>{{ .date }}</span>
-                            </div>
-                            <div class="client-comment">
-                                <p>{{ .content }}</p>
+                                <h6>{{ .name }}</h6>
                             </div>
                         </div>
                     </div>
