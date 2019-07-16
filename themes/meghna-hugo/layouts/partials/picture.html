@@ -1,17 +1,17 @@
 {{ if .Site.Data.picture.enable }}
-{{"<!-- Start Testimonial -->" | safeHTML}}
-<section id="testimonial" class="testimonial overly section bg-2" style='background-image: url("{{ .Site.Data.testimonial.bgImage | absURL }}")'>
+{{"<!-- Start picture -->" | safeHTML}}
+<section id="picture" class="testimonial overly section bg-2" style='background-image: url("{{ .Site.Data.testimonial.bgImage | absURL }}")'>
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
-                {{"<!-- testimonial wrapper -->" | safeHTML}}
-                <div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+                {{"<!-- picture wrapper -->" | safeHTML}}
+                <div id="pictures" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
                     {{ range .Site.Data.picture.pictureItem }}
-                    {{"<!-- testimonial single -->" | safeHTML}}
+                    {{"<!-- picture single -->" | safeHTML}}
                     <div class="item text-center">
 
                         {{"<!-- client photo -->" | safeHTML}}
-                        <div class="w3-round">
+                        <div class="landscape">
                             <img src="{{ .image | absURL }}" class="img-fluid"  width="500" height="1000" alt="Picture">
                         </div>
 
@@ -22,11 +22,11 @@
                             </div>
                         </div>
                     </div>
-                    {{"<!-- /testimonial single -->" | safeHTML}}
+                    {{"<!-- /picture single -->" | safeHTML}}
                     {{ end }}
                     </div>
                 </div>
             </div>
 </section>
-{{"<!-- /testimonial -->" | safeHTML}}
+{{"<!-- /picture -->" | safeHTML}}
 {{ end }}

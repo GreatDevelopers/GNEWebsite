@@ -680,6 +680,83 @@ a:hover {
   z-index: -1;
 }
 
+
+/*=================================================================
+  picture section
+==================================================================*/
+.testimonial:before {
+  background: rgba(42, 48, 55, 0.7);
+}
+
+.client-info {
+  margin: 0 auto;
+  width: 45%;
+}
+
+@media (max-width: 768px) {
+  .client-info {
+    width: 90%;
+  }
+}
+
+.landscape img {
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+}
+
+.client-meta {
+  margin: 0 0 10px;
+}
+
+.client-meta h6 {
+  margin: 15px 0 5px .0;
+}
+
+.owl-pagination,
+.owl-buttons {
+  text-align: center;
+}
+
+.owl-controls .owl-page {
+  display: inline-block;
+}
+
+.our-clients {
+  margin: 30px 0 0;
+}
+
+#our-clietns .item img {
+  max-width: 150px;
+  width: 100%;
+}
+
+#our-clietns .owl-next,
+#our-clietns .owl-prev {
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  display: inline-block;
+  margin: 45px 0 0;
+  padding: 3px 15px;
+  position: relative;
+  text-align: center;
+}
+
+#our-clietns .owl-next i,
+#our-clietns .owl-prev i {
+  line-height: 34px;
+}
+
+#our-clietns .owl-prev {
+  margin-right: 15px;
+}
+
+#our-clients .item {
+  margin: 10px;
+}
+
+
+
 /*=================================================================
   About us section
 ==================================================================*/
@@ -1249,6 +1326,11 @@ a:hover {
 .member-meta span {
   font-size: 12px;
 }
+
+
+
+
+
 
 /*=================================================================
   Testimonial section
