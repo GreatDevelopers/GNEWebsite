@@ -55,6 +55,12 @@ jQuery(function ($) {
 	/* ========================================================================= */
 	/*	Testimonial Carousel
 	/* =========================================================================  */
+	$("#pictures").slick({
+		infinite: true,
+		arrows: true,
+		autoplay: true,
+		autoplaySpeed: 4000
+	});
 
 	//Init the carousel
 	$("#testimonials").slick({
