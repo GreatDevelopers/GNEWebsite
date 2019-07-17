@@ -1,0 +1,15 @@
+enable : true
+bgImage : images/backgrounds/bg-2.jpg
+pictureItem :
+  - name : UKIERI CONCRETE CONGRESS
+    image : images/picture/g1.jpg
+
+        
+  - name : OVERALL WINNER TROPHY
+    image : images/picture/g2.jpg
+
+        
+  - name : ANNUAL CONVOCATION 2019
+    image : images/picture/g3.jpg
+
+    
