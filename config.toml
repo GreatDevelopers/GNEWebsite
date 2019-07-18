@@ -39,15 +39,15 @@ summaryLength = 10
 
 #second navigation bar
 
-    [[menu.nav]]
-    name = "Recent Events"
-    URL = "blog"
-    weight = 2
+#    [[menu.nav]]
+ #   name = "Recent Events"
+   # URL = "blog"
+  #  weight = 2
 
-    [[menu.nav]]
-    name = "About Us"
-    URL = "about"
-    weight = 3
+#    [[menu.nav]]
+#    name = "About Us"
+#    URL = "about"
+#    weight = 3
 
     [[menu.nav]]
     name = "Service"
@@ -55,9 +55,9 @@ summaryLength = 10
     weight = 4
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "About us"
     URL = "portfolio"
-    weight = 5
+    weight = 2
 
     [[menu.nav]]
     name = "Team"

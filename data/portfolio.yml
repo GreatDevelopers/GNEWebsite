@@ -1,58 +1,49 @@
 enable : true
-heading : Our
-headingSpan : Works
-filterList :
-  - filterType : photography
-    filterTitle : Photography
-    
-  - filterType : design
-    filterTitle : Design
-    
-  - filterType : development
-    filterTitle : Development
+heading : About
+headingSpan : Us
 
 portfolioItem :
   - types : design
-    image : images/portfolio/portfolio-1.jpg
+    image : images/portfolio/principal.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/principal-desk
+    title : Principal's Desk
+    description : Click on above title to go to principal's desk
     
   - types : development
-    image : images/portfolio/portfolio-2.jpg
+    image : images/portfolio/mission.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/mission
+    title : Mission
+    description : 
     
   - types : design, development
-    image : images/portfolio/portfolio-3.jpg
+    image : images/portfolio/vision.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/vision
+    title : Vision
+    description : 
     
   - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
+    image : images/portfolio/Goals.jpeg
     icon : tf-ion-android-search
-    URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/goals
+    title : Goals
+    description : 
     
   - types : design
-    image : images/portfolio/portfolio-5.jpg
+    image : images/portfolio/History.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Shopping Bag
+    URL : webpages/about-us/history
+    title : History
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : photography
-    image : images/portfolio/portfolio-6.jpg
+    image : images/portfolio/campus.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/campus
+    title : Campus
+    description : 
     
   - types : development
     image : images/portfolio/portfolio-7.jpg
