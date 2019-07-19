@@ -46,18 +46,18 @@ portfolioItem :
     description : 
     
   - types : development
-    image : images/portfolio/portfolio-7.jpg
+    image : images/portfolio/BalanceSheet.jpeg
     icon : tf-ion-android-search
-    URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : webpages/about-us/balance-sheet
+    title : Balance Sheet
+    description :
     
   - types : design, development
     image : images/portfolio/portfolio-8.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /webpages/about-us/manadatory-disclosure
+    title : Manadatory Disclosure
+    description : 
     
   - types : design, photography
     image : images/portfolio/portfolio-2.jpg
